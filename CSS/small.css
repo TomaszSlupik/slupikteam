@@ -1,0 +1,102 @@
+@media (max-width: 568px) {
+	.linkboxmenu {
+		flex-direction: column;
+	}
+	.textboxmenu {
+		margin: 0.5em;
+	}
+
+	.menubox {
+		height: 400px;
+		width: 100%;
+		z-index: 100;
+	}
+
+	.carousel-item {
+		z-index: -200;
+	}
+
+	.imgTwo {
+		background-position: 45% 0%;
+	}
+
+	.imgThree {
+		background-position: 45% 0%;
+	}
+
+	.carousel-item {
+		height: 400px;
+	}
+
+	.textfirstabout {
+		font-size: 1.5rem;
+	}
+
+	.linenext {
+		width: 200px;
+	}
+
+	.burgermenu {
+		position: fixed;
+	}
+
+	.circleboxabout {
+		flex-direction: column;
+	}
+
+	.boxaboutlogo {
+		font-size: 1.5rem;
+		margin: 1em;
+		padding: 0em 0em;
+	}
+
+	.circleboxaboutimg {
+		margin-top: 1em;
+	}
+
+	.imgaboutshadow {
+		background-position: 20% 0%;
+	}
+
+	.contactimg {
+		height: 400px;
+	}
+
+	input,
+	textarea {
+		width: 90%;
+	}
+
+	.myone {
+		background-position: -64% 0;
+	}
+
+	.mythree {
+		background-position: -78% 0;
+	}
+
+	input,
+	textarea,
+	.textform,
+	button,
+	.footer {
+		font-size: 1.2rem;
+	}
+
+	.sendmsg {
+		font-size: 0.8rem;
+	}
+
+	button {
+		width: 50%;
+	}
+
+	form {
+		width: 300px;
+	}
+
+	.tripcontainer,
+	.tripbox {
+		height: 300px;
+	}
+}
