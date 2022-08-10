@@ -75,6 +75,17 @@
 		background-position: -78% 0;
 	}
 
+	.myfour {
+	background-position: 35% 0%;}
+
+	.myfive {
+		background-position: 54% 0%;
+	}
+
+	.mysix {
+		background-position: -68% 0%;
+	}
+
 	input,
 	textarea,
 	.textform,

@@ -258,6 +258,21 @@ a:hover {
 	background-image: url("../IMG/eight.JPG");
 }
 
+.myfour {
+	background-image: url("../IMG/ten.JPG");
+	background-position: 20% 0;
+}
+
+.myfive {
+	background-image: url("../IMG/eleven.JPG");
+	background-position: 40% 20%;
+}
+
+.mysix {
+	background-image: url("../IMG/twelve.JPG");
+	
+}
+
 .about {
 	position: relative;
 }
@@ -342,7 +357,8 @@ textarea {
 	max-height: 200px;
 }
 
-.formbox, form {
+.formbox,
+form {
 	position: absolute;
 	z-index: 500;
 	left: 2%;
@@ -388,7 +404,6 @@ button::after {
 	transition: all 0.5s;
 	z-index: -1;
 }
-
 
 .vibrate-3 {
 	-webkit-animation: vibrate-3 0.3s linear 4 both;
